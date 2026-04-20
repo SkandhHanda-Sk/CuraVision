@@ -1,0 +1,11 @@
+# Frontend Dashboard and UI Framework
+streamlit
+
+# Google Gemini AI SDK (Cloud Intelligence)
+google-genai
+
+# Ollama Client (Local Vision/OCR)
+ollama
+
+# Environment Variable Management (Security)
+python-dotenv
