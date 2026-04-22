@@ -152,15 +152,28 @@ The app will open at **http://localhost:8501**.
 
 ---
 
+## 🖼️ Visual Demo
+
+### Handwritten Prescription
+![Result - Handwritten](screenshots/result_handwritten.png)
+
+### Digital Lab Report (KFT)
+![Result - Digital](screenshots/result_digital.png)
+
+### Scanned Lab Report (LFT)
+![Result - Scanned](screenshots/result_scanned.png)
+
+---
+
 ## 📸 Sample Inputs
 
 The `samples/` folder contains test documents covering the three major medical document formats:
 
 | Sample | Type | Description |
 | ------ | ---- | ----------- |
-| `digital.jpeg` | Digital Lab Report | A Kidney Function Test (KFT) report with structured tabular data |
-| `handwritten.jpg` | Handwritten Prescription | A doctor's handwritten prescription from Sir Ganga Ram Hospital |
-| `scanned.png` | Scanned Lab Report | A Liver Function Test report scanned from a physical printout |
+| [digital.jpeg](samples/digital.jpeg) | Digital Lab Report | A Kidney Function Test (KFT) report with structured tabular data |
+| [handwritten.jpg](samples/handwritten.jpg) | Handwritten Prescription | A doctor's handwritten prescription from Sir Ganga Ram Hospital |
+| [scanned.png](samples/scanned.png) | Scanned Lab Report | A Liver Function Test report scanned from a physical printout |
 
 > **Try it yourself:** Upload any of these images into CuraVision to see the full OCR → Analysis pipeline in action.
 
